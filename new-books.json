@@ -30,6 +30,12 @@
         "cover-url": "https://books.google.com/books/content?id=xCHyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
+        "title": "Thinking with type a critical guide for designers, writers, editors, & students",
+        "author": "Lupton, Ellen.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991706300304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=oz1FAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
         "title": "Travels of a T-shirt in the global economy : an economist examines the markets, power, and politics of world trade",
         "author": "Rivoli, Pietra, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991706200104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -42,7 +48,7 @@
         "cover-url": "https://books.google.com/books/content?id=0HbhDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-        "title": "The Artful Economist A New Look at Cultural Economics",
+        "title": "The artful economist : a new look at cultural economics",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991697400204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=I6GtDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
@@ -64,6 +70,12 @@
         "author": "Gwilt, Alison, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702699204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=dt_evQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Apparel making in fashion design",
+        "author": "Kim, Injoo, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702700004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=-3vqvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Apparel quality : a guide to evaluating sewn products",
@@ -438,6 +450,12 @@
         "cover-url": "https://books.google.com/books/content?id=TOnSvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
+        "title": "Sourcing ideas",
+        "author": "Steed, Josephine, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702638004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=h4DJvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Style wise : a practical guide to becoming a fashion stylist.",
         "author": "Burns-Tran, Shannon, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702637804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -516,12 +534,6 @@
         "cover-url": "https://books.google.com/books/content?id=OTsAvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-        "title": "The fashion industry and its careers : an introduction",
-        "author": "Granger, Michele author. (Michele M.),",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702633304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=iiT-vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
         "title": "The fashion show : history, theory and practice",
         "author": "Stark, Gill, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702612804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -592,6 +604,12 @@
         "author": "Amaden-Crawford, Connie, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702499704829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=YVkIvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Apparel making in fashion design",
+        "author": "Kim, Injoo, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702499604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=-3vqvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Exportimport procedures and documentation",
