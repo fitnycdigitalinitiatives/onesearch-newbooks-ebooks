@@ -18,8 +18,8 @@
         "cover-url": "https://books.google.com/books/content?id=JuFwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-        "title": "Rethinking luxury fashion : the role of cultural intelligence in creative strategy",
-        "author": "Serdari, Thomai, author.",
+        "title": "Rethinking Luxury Fashion The Role of Cultural Intelligence in Creative Strategy",
+        "author": "Serdari, Thoma\u00ef. author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712800304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=UZf6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -48,13 +48,13 @@
         "cover-url": "https://books.google.com/books/content?id=8l86BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-        "title": "Art wealth management : managing private art collections",
+        "title": "Art Wealth Management Managing Private Art Collections",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991697400304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=0HbhDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-        "title": "The artful economist : a new look at cultural economics",
+        "title": "The Artful Economist A New Look at Cultural Economics",
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991697400204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=I6GtDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
@@ -712,5 +712,11 @@
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667578104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=YqE3BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Distinguishing the Views and Philosophies Illuminating Emptiness in a Twentieth-Century Tibetan Buddhist Classic",
+        "author": "Mdo-sn\u0307ags Bstan-pa\u02bci-n\u0303i-ma, Bod-pa Sprul-sku, 1898-1959.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667454404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=BW8QDmAPSDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
 ]
