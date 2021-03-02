@@ -18,14 +18,20 @@
         "cover-url": "https://books.google.com/books/content?id=JuFwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
+        "title": "Love, Peace and Soul",
+        "author": "Danois, Ericka Blount",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716899804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=9s-GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
         "title": "Rethinking Luxury Fashion The Role of Cultural Intelligence in Creative Strategy",
         "author": "Serdari, Thoma\u00ef. author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991712800304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=UZf6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-        "title": "The Concise APA Handbook : APA 7th Edition",
-        "author": "Iida, Paul",
+        "title": "The concise APA handbook",
+        "author": "Iida, Paul, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991711200104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=olX9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
@@ -162,12 +168,6 @@
         "cover-url": "https://books.google.com/books/content?id=J-XXvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-        "title": "Designing with smart textiles",
-        "author": "Kettley, Sarah, author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702697104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=w4X3vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
         "title": "Developing and branding the fashion merchandising portfolio",
         "author": "Bubonia, Janace E., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702696804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -280,12 +280,6 @@
         "author": "Abling, Bina, author, illustrator, speaker.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702612004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=cz1VyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-        "title": "Fashion supply chain management",
-        "author": "Londrigan, Michael P., author.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702614004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=Md_CxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Fitting & pattern alteration : a multi-method approach to the art of style selection, fitting, and alteration",
@@ -712,17 +706,5 @@
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667578104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=YqE3BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-        "title": "Distinguishing the Views and Philosophies Illuminating Emptiness in a Twentieth-Century Tibetan Buddhist Classic",
-        "author": "Mdo-sn\u0307ags Bstan-pa\u02bci-n\u0303i-ma, Bod-pa Sprul-sku, 1898-1959.",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667454404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=BW8QDmAPSDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-        "title": "Magical religion and modern witchcraft",
-        "author": "",
-        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667564604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=dILjHIzYrSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
 ]
