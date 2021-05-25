@@ -42,6 +42,18 @@
         "cover-url": "https://books.google.com/books/content?id=0FOMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
+        "title": "Black No More: A Novel",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991720298804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=bxJSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "It's been beautiful : Soul! and black power television",
+        "author": "Wald, Gayle, 1965-",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716900004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=GFWeoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Love, Peace and Soul",
         "author": "Danois, Ericka Blount",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991716899804829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -120,6 +132,12 @@
         "cover-url": "https://books.google.com/books/content?id=5D_vV4Tiq5IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
+        "title": "The beautiful fall : fashion, genius, and glorious excess in 1970's Paris",
+        "author": "Drake, Alicia, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991702197404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=pmXboQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
         "title": "Fashion climbing",
         "author": "Cunningham, Bill, 1929-2016, author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991701900104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -142,6 +160,12 @@
         "author": "Kendi, Ibram X., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991701500004829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=6pNbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "The Unapologetic Guide to Black Mental Health : Navigate an Unequal System, Learn Tools for Emotional Wellness, and Get the Help You Deserve",
+        "author": "Walker, Rheeda.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991701500304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=iSLdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "White fragility : why it's so hard for White people to talk about racism",
@@ -178,5 +202,11 @@
         "author": "",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667564604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=dILjHIzYrSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Resilience : queer professors from the working class",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991667463404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=kmu_jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     }
 ]
