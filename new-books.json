@@ -18,6 +18,24 @@
         "cover-url": "https://books.google.com/books/content?id=JuFwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
+        "title": "Creative research: the theory and practice of research for the creative industries",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991725498404829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=DdhwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Design roots : culturally significant designs, products, and practices",
+        "author": "",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991725498504829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=699HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Designers, users and justice",
+        "author": "Keinonen, Turkka, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991725498604829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=fF_yDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
         "title": "Latinx art : artists, markets, and politics",
         "author": "Da\u0301vila, Arlene M., 1965- author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991722599204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
@@ -79,9 +97,21 @@
     },
     {
         "title": "Marketing and public relations for museums, galleries, cultural and heritage attractions",
-        "author": "French, Ylva.",
+        "author": "French, Ylva., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991706600304829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
         "cover-url": "https://books.google.com/books/content?id=7NnSjKb7yq8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Advertising media planning : a brand management approach",
+        "author": "Kelley, Larry D., 1955-, author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991706100204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=06fFoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Subcultures : the basics",
+        "author": "Haenfler, Ross., author.",
+        "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991706100104829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
+        "cover-url": "https://books.google.com/books/content?id=XZBumwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
         "title": "Travels of a T-shirt in the global economy : an economist examines the markets, power, and politics of world trade",
@@ -171,7 +201,7 @@
         "title": "White fragility : why it's so hard for White people to talk about racism",
         "author": "DiAngelo, Robin J., author.",
         "onesearch-url": "https://onesearch.fitnyc.edu/discovery/fulldisplay?docid=alma991701500204829&context=L&vid=01SUNY_FIT:01SUNY_FIT&search_scope=MyInst_and_CI&tab=Everything&lang=en",
-        "cover-url": "https://books.google.com/books/content?id=abZdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        "cover-url": "https://books.google.com/books/content?id=ZfQ3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
         "title": "Tell me who you are : sharing our stories of race, culture, and identity",
